@@ -1,6 +1,5 @@
 ![Codewars](https://github.r2v.ch/codewars?user=DenLat&stroke=COLOR)
 
-🌱 I’m currently learning Java
 💬 Ask me about anything
 👀 I am looking for work
 <!--
