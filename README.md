@@ -49,6 +49,6 @@ _Fachkolleg für Tourismus und Hotelmanagement, Kiew_
 ---
 
 ## Languages
-- **English:** Intermediate  
+- **English:** B2  
 - **German:** B2  
 - **Ukrainian/Russian:** Native
